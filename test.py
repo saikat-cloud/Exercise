@@ -11,6 +11,8 @@ pad.add(100,5)
 
 pad.add(10,2)
 
+test = 'this is a test str'
+
 
 
 
